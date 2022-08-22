@@ -1,3 +1,6 @@
 
 
-alert(window.location.href);
+$(document).ready(_>{
+alert(window.location.href)
+
+});
